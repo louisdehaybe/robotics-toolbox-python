@@ -20,6 +20,7 @@ from roboticstoolbox.models.URDF.LBR import LBR
 from roboticstoolbox.models.URDF.KinovaGen3 import KinovaGen3
 from roboticstoolbox.models.URDF.YuMi import YuMi
 from roboticstoolbox.models.URDF.irb120 import irb120
+
 __all__ = [
     "Panda",
     "Frankie",
